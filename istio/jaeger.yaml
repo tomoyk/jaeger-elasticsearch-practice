@@ -20,16 +20,16 @@ spec:
     spec:
       containers:
         - name: jaeger
-          image: "docker.io/jaegertracing/all-in-one:1.35"
+          image: "docker.io/jaegertracing/all-in-one:1.46"
           env:
             - name: SPAN_STORAGE_TYPE
               value: "elasticsearch"
             - name: ES_SERVER_URLS
-              value: "http://ip-172-31-21-19.ec2.internal:9200"
-            - name: ES_USERNAME
-              value: "elastic"
-            - name: ES_PASSWORD
-              value: "elastic"
+              value: "http://ip-172-31-93-9.ec2.internal:9200"
+            # - name: ES_USERNAME
+            #   value: "elastic"
+            # - name: ES_PASSWORD
+            #   value: "elastic"
             - name: COLLECTOR_ZIPKIN_HOST_PORT
               value: ":9411"
             - name: MEMORY_MAX_TRACES

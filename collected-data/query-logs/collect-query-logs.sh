@@ -6,6 +6,10 @@ if [ -z $1 ]; then
   exit 1
 fi
 
+filename="query.${1}.txt"
+touch $filename
+
 sudo tail -f /var/log/elasticsearch/elasticsearch_index_search_slowlog.log -n 1 \
-    | grep -v kibana > "query.${1}.txt"
+    | grep jaeger \
+    > $filename
 

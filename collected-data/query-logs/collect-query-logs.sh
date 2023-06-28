@@ -7,5 +7,5 @@ if [ -z $1 ]; then
 fi
 
 sudo tail -f /var/log/elasticsearch/elasticsearch_index_search_slowlog.log -n 1 \
-    | grep -v kibana > "q-${1}.txt"
+    | grep -v kibana > "query.${1}.txt"
 

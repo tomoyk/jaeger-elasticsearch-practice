@@ -1,0 +1,240 @@
+{
+  "size": 10000,
+  "query": {
+    "bool": {
+      "must": [
+        {
+          "term": {
+            "traceID": {
+              "value": "faf5ae26bd574e89e454e14a682b410d",
+              "boost": 1
+            }
+          }
+        }
+      ],
+      "adjust_pure_negative": true,
+      "boost": 1
+    }
+  },
+  "sort": [
+    {
+      "startTime": {
+        "order": "asc"
+      }
+    }
+  ],
+  "track_total_hits": 2147483647,
+  "search_after": [
+    1687729217613082
+  ]
+}
+{
+  "size": 10000,
+  "query": {
+    "bool": {
+      "must": [
+        {
+          "term": {
+            "traceID": {
+              "value": "faf5ae26bd574e89e454e14a682b410d",
+              "boost": 1
+            }
+          }
+        }
+      ],
+      "adjust_pure_negative": true,
+      "boost": 1
+    }
+  },
+  "sort": [
+    {
+      "startTime": {
+        "order": "asc"
+      }
+    }
+  ],
+  "track_total_hits": 2147483647,
+  "search_after": [
+    1687729217613082
+  ]
+}
+{
+  "size": 10000,
+  "query": {
+    "bool": {
+      "must": [
+        {
+          "term": {
+            "traceID": {
+              "value": "faf5ae26bd574e89e454e14a682b410d",
+              "boost": 1
+            }
+          }
+        }
+      ],
+      "adjust_pure_negative": true,
+      "boost": 1
+    }
+  },
+  "sort": [
+    {
+      "startTime": {
+        "order": "asc"
+      }
+    }
+  ],
+  "track_total_hits": 2147483647,
+  "search_after": [
+    1687729217613082
+  ]
+}
+{
+  "size": 10000,
+  "query": {
+    "bool": {
+      "must": [
+        {
+          "term": {
+            "traceID": {
+              "value": "faf5ae26bd574e89e454e14a682b410d",
+              "boost": 1
+            }
+          }
+        }
+      ],
+      "adjust_pure_negative": true,
+      "boost": 1
+    }
+  },
+  "sort": [
+    {
+      "startTime": {
+        "order": "asc"
+      }
+    }
+  ],
+  "track_total_hits": 2147483647,
+  "search_after": [
+    1687729217613082
+  ]
+}
+{
+  "size": 10000,
+  "query": {
+    "bool": {
+      "must": [
+        {
+          "term": {
+            "traceID": {
+              "value": "faf5ae26bd574e89e454e14a682b410d",
+              "boost": 1
+            }
+          }
+        }
+      ],
+      "adjust_pure_negative": true,
+      "boost": 1
+    }
+  },
+  "sort": [
+    {
+      "startTime": {
+        "order": "asc"
+      }
+    }
+  ],
+  "track_total_hits": 2147483647,
+  "search_after": [
+    1687729217613082
+  ]
+}
+{
+  "size": 10000,
+  "query": {
+    "bool": {
+      "must": [
+        {
+          "term": {
+            "traceID": {
+              "value": "faf5ae26bd574e89e454e14a682b410d",
+              "boost": 1
+            }
+          }
+        }
+      ],
+      "adjust_pure_negative": true,
+      "boost": 1
+    }
+  },
+  "sort": [
+    {
+      "startTime": {
+        "order": "asc"
+      }
+    }
+  ],
+  "track_total_hits": 2147483647,
+  "search_after": [
+    1687729229974911
+  ]
+}
+{
+  "size": 10000,
+  "query": {
+    "bool": {
+      "must": [
+        {
+          "term": {
+            "traceID": {
+              "value": "faf5ae26bd574e89e454e14a682b410d",
+              "boost": 1
+            }
+          }
+        }
+      ],
+      "adjust_pure_negative": true,
+      "boost": 1
+    }
+  },
+  "sort": [
+    {
+      "startTime": {
+        "order": "asc"
+      }
+    }
+  ],
+  "track_total_hits": 2147483647,
+  "search_after": [
+    1687729229974911
+  ]
+}
+{
+  "size": 10000,
+  "query": {
+    "bool": {
+      "must": [
+        {
+          "term": {
+            "traceID": {
+              "value": "faf5ae26bd574e89e454e14a682b410d",
+              "boost": 1
+            }
+          }
+        }
+      ],
+      "adjust_pure_negative": true,
+      "boost": 1
+    }
+  },
+  "sort": [
+    {
+      "startTime": {
+        "order": "asc"
+      }
+    }
+  ],
+  "track_total_hits": 2147483647,
+  "search_after": [
+    1687729229974911
+  ]
+}

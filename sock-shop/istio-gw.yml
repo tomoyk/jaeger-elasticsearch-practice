@@ -31,3 +31,4 @@ spec:
         host: front-end
         port:
           number: 80
+    timeout: 3.0s
